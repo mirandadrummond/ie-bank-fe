@@ -1,7 +1,7 @@
 <template>
   <div class="apple-homepage">
     <div class="header">
-      <h1>Welcome to the IE Bank Homepage</h1>
+      <h1>Welcome to the IE Bank Homepage!</h1>
     </div>
     <nav>
       <ul>
